@@ -1,5 +1,7 @@
 # content-platform
 
+My test
+
 # FastStore sources
 
 https://developers.vtex.com/docs/guides/implementing-product-recommendations-in-faststore
